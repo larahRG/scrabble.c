@@ -1,0 +1,2 @@
+# scrabble.c
+make scrabble
